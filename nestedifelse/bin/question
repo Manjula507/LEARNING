@@ -1,0 +1,23 @@
+
+In nested if-else decision-making statement, an if-else statement is nested inside an if statement, hence this program control structure is named nested if-else.
+
+Syntax :
+
+if (condition1) {  
+   /* code to be executed if condition1 is true */  
+   if (condition2) {  
+      /* code to be executed if condition2 is true */  
+   } else {  
+      /* code to be executed if condition2 is false */  
+   }  
+} else {  
+   /* code to be executed if condition1 is false */  
+}  
+
+
+
+
+Example :
+
+I asked permission to my father to go trip with my friends.If my father grant permission to go for the trip then he gives money for the trip .if my father give greter than 10000 then we will go to Araku or if my father give give less than 10000 rupees and greter than 5000 rupees then we will go to thalakona waterfalls .if my father gives less than 5000 and greter than 1000 rupees then we will go to horsellyhills.if he did not grant permission for trip then  ihave to go inside house and clean the house. 
+Based on the above scenario I will create one app for making trip plan.

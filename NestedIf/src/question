@@ -1,0 +1,45 @@
+ Nested if Conditional Control Construct :
+
+   Nested means within. Nested if condition means if-within-if. Nested if condition comes under decision-making statement in Java. There could be infinite if conditions inside an if condition. The below syntax represents the Nested if condition.
+
+
+
+
+
+
+
+
+
+Syntax : 
+ 
+    if( condition ){
+
+      if( condition ){
+      
+                if( condition ){
+                
+                         ......
+                }
+       }
+}
+Example :
+
+
+ My mother said that "Could you please go to the  market and buy some tomatoes? If tomatoes are available and if they cost less than 150, then buy 1kg tomotoes or if tomotoes cost is greter than 150 buy 1/2kg and come."
+"I wrote code according to mother's requirements."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
